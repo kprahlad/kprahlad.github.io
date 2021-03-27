@@ -3,7 +3,7 @@ layout: post
 title:  Colouring a Sequence of Boxes
 date:   2020-09-05
 image:  
-tags:   ["Random Problems", "Academics"]
+tags:   ["Problems", "Academics"]
 ---
 One of my friends was applying to Google for a job and got this problem  in one of the final written rounds. This was a fun little problem that  helped me procrastinate...  
 
