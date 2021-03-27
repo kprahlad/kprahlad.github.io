@@ -17,7 +17,7 @@
         {% endif %}
         <span class="article__meta">
           <span class="article__date"> on <a href="{{post.url | prepend: site.baseurl}}"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></a></span>
-          <span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
+          <span class="article__author"> by <a href="{{site.baseurl}}/about.html">{{ site.author.name }}</a></span>
         </span>
       </div>
     </div>
