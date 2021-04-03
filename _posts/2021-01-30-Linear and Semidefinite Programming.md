@@ -3,6 +3,7 @@ layout: post
 title:  "Linear and Semidefinite Programming"
 date:   2021-01-30
 image:  
+excerpt: Optimization has a very simple premise - you want to maximize or minimize something with respect to a bunch of constraints. In <i>Linear Programming</i>, we further restrict our study to the case where the constraints are also linear and the condition imposed on each of these functions is that they must be  at most a fixed value. In <i>Semidefinite Programming</i>, we impose another restriction - the matrix described by the variables must be positive (that is, it must be both positive semidefinite and self-adjoint or, equivalently, it must be a matrix whose eigenvalues are positive reals). For my 7<sup>th</sup> semester math project, I wrote a report that discusses these two optimiization constructs. The report assumes literacy in basic algorithms, linear algebra and (a tiny bit of) probability.
 tags:   ["Academics"]
 ---
 

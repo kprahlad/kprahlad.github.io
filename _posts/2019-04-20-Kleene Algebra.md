@@ -3,6 +3,7 @@ layout: post
 title:  "Kleene Algebra"
 date:   2019-04-20
 image:  
+excerpt: While following <i>"<a href = "https://doi.org/10.1007/978-1-4612-1844-9_10">Automata and Computability</a>"</i> by D.C Kozen during my first summer internship at CMI, I came across a supplementary lecture on Kleene Algebras. When I came back to it a semester later, I discovered that the number of axioms required to define this algebra can be reduced by one.
 tags:   ["Academics"]
 ---
 

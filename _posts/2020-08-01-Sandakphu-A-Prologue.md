@@ -3,10 +3,11 @@ layout: post
 title:  "Sandakphu: A Prologue"
 date:   2020-08-01
 image:  images/DSC_0317.jpg
+excerpt: This is short read about my first attempt to trek to Sandakphu. This is meant to be read after my first post about my <a href="https://kprahlad.github.io/2020/04/03/Sandakphu/">second attempt</a>. My first trek after a break of a couple of years lasted a mere three days and ended in one of the most harrowing days of my life. 
 tags:   ["Trekking","Personal"]
 ---
 
-This is short read about my first attempt to trek to Sandakphu. This is meant to be read after my first post about my [second attempt. ](https://kpranar.weebly.com/sandakphu.html)Confusing, I know. 
+This is short read about my first attempt to trek to Sandakphu. This is meant to be read after my first post about my [second attempt]({{ site.baseurl }}{% post_url 2020-04-03-Sandakphu %}). Confusing, I know. 
 
 ## Prologue
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Terrain Guarding"
 date:   2020-05-11
 image:  
+excerpt: The <i>Terrain Guarding</i> problem is a variation of the <i>Art Gallery</i> problem - you are given a polygonal chain and are required to find the minimum number of vertices on it to guard a given set of points on the chain. It turns out that this is a hard computational problem. During my quest to understand <a href= "https://dl.acm.org/doi/10.1145/3186897">this paper</a> by Ashok <i>et al.</i>, I picked up a few more concepts and decided to write a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. This eventually let to my <a href = "https://kprahlad.github.io/2021/02/12/Guarding-Terrains-and-Covering-Chordal-Graphs/">first publication</a>.
 tags:   ["Academics"]
 ---
 

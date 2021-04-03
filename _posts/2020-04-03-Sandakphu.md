@@ -3,6 +3,7 @@ layout: post
 title:  "Sandakphu"
 date:   2020-04-03
 image:  images/Sandakphu_2020/DSC_0317.jpg
+excerpt: This is the account of my second attempt to trek to Sandakphu - a summit in the Eastern Himalayas. Let us just say that my first attempt...<a href="https://kprahlad.github.io/2020/08/01/Sandakphu-A-Prologue/"> did not go well</a>. This week long trek had me digging deep into my mental reserves while rewarding me with not just great satisfaction but some photographs that I am very proud of!
 tags:   ["Trekking","Personal"]
 ---
 
