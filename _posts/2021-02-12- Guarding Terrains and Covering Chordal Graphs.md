@@ -17,4 +17,4 @@ This is my first academic publication! This paper is a result of my COVID-induce
 
 Feel free to [email me](mailto:kprahlad.narasimhan@niser.ac.in) if you want to discuss this topic! The pre-print of this paper can be downloaded as a PDF from here: 
 
-#### <center><a href = "{{site.baseurl}}/documents/One Sided Discrete Terrain Guarding and Chordal Graphs.pdf" download> Pre-Print </a></center>
+#### <center><a href = "{{site.baseurl}}/documents/One-Sided Discrete Terrain Guarding and Chordal Graphs.pdf" download> Pre-Print </a></center>
