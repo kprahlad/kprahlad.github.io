@@ -12,4 +12,5 @@ Hello! I'm K. Prahlad Narasimhan. I'm from Chennai, Tamil Nadu and am  doing my 
 
 **The most recent book I read:** [Veerappan: Chasing the Brigand](https://www.goodreads.com/book/show/34314211-veerappan). An account of the life of a notorious bandit as told by his captor.
 
-**Newest addition to the website:** [Guarding Terrains and Covering Chordal Graphs]({{ site.baseurl }}{% post_url 2021-02-12- Guarding Terrains and Covering Chordal Graphs %}).
+{% assign latest = site.posts.first %}
+**Newest addition to the website:** [{{latest.title}}]({{latest.url}}).
