@@ -4,27 +4,40 @@ title: Academics
 permalink: academics.html
 ---
 
-
+![]({{site.baseurl}}/images/DSC_0342.jpg)*Tiger paw prints at Ranthambore. Spring, 2018.*
 
 ## An Academic History
 
-I'm currently enrolled in a 5-year Int. MSc.  course at NISER, Bhubaneswar and am majoring in mathematics with a minor in computer science. My study here is supported by the Department of  Science and Technology through the INSPIRE SHE fellowship. My research  interests lie in the realm of theoretical computer science -  specifically, I'm working on problems in computational geometry, graph  theory, and parameterized complexity. I've previously worked on automata theory, cryptographic applications of cellular automata and optimization. I presented my  first publication titled *"One-Sided Discrete Terrain Guarding and Chordal Graphs"* at CALDAM 2021. 
+I'm currently enrolled in a 5-year Int. MSc.  course at NISER, Bhubaneswar and am majoring in mathematics with a minor in computer science. My study here is supported by the Department of  Science and Technology through the INSPIRE SHE fellowship. My research  interests lie in the realm of theoretical computer science -  specifically, I'm working on problems in computational geometry, graph  theory, and parameterized complexity. I've previously worked on automata theory, cryptographic applications of cellular automata, and optimization. I presented my  first publication titled *"One-Sided Discrete Terrain Guarding and Chordal Graphs"* at CALDAM 2021. 
 
-Here is a <a href = "{{site.baseurl}}/documents/Resume.pdf" download>PDF of my CV</a>.   				
+Here is a <a href = "{{site.baseurl}}/documents/CV_Prahlad.pdf" download>PDF of my CV</a> (updated: January 14, 2022).
 
-## Reports and Publications
+## Publications
 
-In this webpage, a few of my reports and a preprint of my paper are available. It also contains a brief (and largely informal) introduction to the  contents of these manuscripts. The manuscripts that are currently up are on:
+Here is a list of my publications:
 
-- [Guarding Terrains and Covering Chordal Graphs]({{ site.baseurl }}{% post_url 2021-02-12- Guarding Terrains and Covering Chordal Graphs %}) [Publication].
-- [Linear and Semidefinite Programming]({{ site.baseurl }}{% post_url 2021-01-30-Linear and Semidefinite Programming %}).
-- [Annihilators of Banach Spaces]({{ site.baseurl }}{% post_url 2021-01-26-Annihilators of Banach Spaces %}).
-- [Terrain Guarding]({{ site.baseurl }}{% post_url 2020-05-11-Terrain Guarding %}).
-- [Kleene Algebra]({{ site.baseurl }}{% post_url 2019-04-20-Kleene Algebra %}).
+<ul>
+    {% for post in site.tags.Publications %}
+        <li><a href = "{{post.url}}">{{post.title}}</a>: {{post.excerpt}}</li>
+    {% endfor %}
+</ul>
+
+## Reports
+
+Here is a list of reports that I have submitted as part of my coursework or at the end of an internship:
+
+<ul>
+    {% for post in site.tags.Reports %}
+        <li><a href = "{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+</ul>
 
 ## Random Problems
 
-I use this webpage to compile a list of what I consider to be small,  interesting problems that I have managed to solve. These are the  problems that are on the webpage:
+Here is a list of what I consider to be small,  interesting problems that I have managed to solve:
 
-- [Linear Algebra]({{ site.baseurl }}{% post_url 2020-07-23-Some Problems in Linear Algebra %}).
-- [Colouring a Sequence of Boxes]({{ site.baseurl }}{% post_url 2020-09-05-Colouring a Sequence of Boxes %}).
+<ul>
+    {% for post in site.tags.Problems %}
+        <li><a href = "{{post.url}}">{{post.title}}</a></li>
+    {% endfor %}
+</ul>

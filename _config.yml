@@ -1,4 +1,4 @@
-title: Prahlad
+title: Prahlad Narasimhan
 logo: "" # You can add own logo image.
 description: A Personal Webpage
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -6,7 +6,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: 
-  name: Prahlad
+  name: Prahlad Narasimhan
   bio: Hello! I am Prahlad. I'm a student of CS and Math. I'm a cricket fanatic, photography enthusiast, and a running noob. 
 
 # Contact links

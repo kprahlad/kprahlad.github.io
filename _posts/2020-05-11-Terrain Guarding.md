@@ -4,7 +4,7 @@ title:  "Terrain Guarding"
 date:   2020-05-11
 image:  
 excerpt: The <i>Terrain Guarding</i> problem is a variation of the <i>Art Gallery</i> problem - you are given a polygonal chain and are required to find the minimum number of vertices on it to guard a given set of points on the chain. It turns out that this is a hard computational problem. During my quest to understand <a href= "https://dl.acm.org/doi/10.1145/3186897">this paper</a> by Ashok <i>et al.</i>, I picked up a few more concepts and decided to write a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. This eventually let to my <a href = "https://kprahlad.github.io/2021/02/12/Guarding-Terrains-and-Covering-Chordal-Graphs/">first publication</a>.
-tags:   ["Academics"]
+tags:   ["Academics","Reports"]
 ---
 
 Consider the following problem: You are the head of a village which lives on a two-dimensional mountain range which has \\(n\\) peaks. These peaks are home to *Vibranium* reserves that the village must protect at all costs from *Wakanda,* the neighbouring village. You have \\(k\\) able bodied warriors who are available to guard these peaks. These warriors  can guard anything that they can see and can be placed anywhere on the  mountain range. Can you guard all the peaks? If so, can you figure out  where to place your warriors so that they guard all the *Vibranium* reserves? What if you can only place your warriors at the peaks and nowhere else?

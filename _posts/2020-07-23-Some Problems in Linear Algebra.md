@@ -4,8 +4,10 @@ title:  Some Problems in Linear Algebra
 date:   2020-07-23
 image:  
 excerpt: I came across a couple of fun problems when I was going through <i>"<a href = "https://link.springer.com/book/10.1007/978-3-319-11080-6">Linear Algebra Done Right</a>"</i> by Axler. I really enjoyed this book and it was great for a "second reading" of the basics of Linear Algebra.
-tags:   ["Problems", "Academics"]
+tags:   ["Academics","Problems"]
+
 ---
+
 I came across these problems when I was going through *"[Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6)"* by Axler. I really enjoyed this book and it was great for a "second reading" of the basics of Linear Algebra.
 
 **Problem 1.** Let \\(V\\) be an inner product space over \\(C\\) where \\(C\\) denotes the set of complex numbers. For \\(u,v \in V\\)  define \\(d(u,v) = \|\| u-v \| \|\\).

@@ -4,7 +4,7 @@ title:  "Returning to NISER"
 date:   2020-12-11
 image:  
 excerpt: Since I am one of the first people to be back in campus, I thought it would be helpful to pen down my experience so far with the hope that it will help you get a bit more clarity on what to expect and pack smartly. Also because I have little else to do.
-tags:   ["Personal"]
+tags:   ["Personal","Misc"]
 ---
 
 ![]({{site.baseurl}}/images/Meditation Center.png)*NISER's meditation center. I made this using Inkscape during our 'COVID break'.*
