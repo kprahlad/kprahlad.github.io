@@ -6,11 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Prahlad</title>
+  <title>Prahlad Narasimhan</title>
   <meta name='description' content='A Personal Webpage'>
 
-  <link rel="canonical" href="/tag/trekking/">
-  <link rel="alternate" type="application/rss+xml" title="Prahlad" href="/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/tag/trekking/">
+  <link rel="alternate" type="application/rss+xml" title="Prahlad Narasimhan" href="/feed.xml">
+  
+  <!--W3-CSS-->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
@@ -18,6 +21,7 @@
 
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/eb3c475b26.js" crossorigin="anonymous"></script>
 
   <style>
   
@@ -62,7 +66,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
           <div class="logo">
             <a class="logo__link" href="/">
             
-              Prahlad
+              Prahlad Narasimhan
             
             </a>
           </div>
@@ -83,16 +87,26 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                   
                 
                 <li class="nav__item">
-                  <a href="/about.html" class="nav__link">About</a>
+                  <a href="/academics.html" class="nav__link">Academics</a>
                 </li>
+                
+                  
+                
+                  
                 
                   
                 
                   
                 
                 <li class="nav__item">
-                  <a href="/academics.html" class="nav__link">Academics</a>
+                  <a href="/personal.html" class="nav__link">Personal</a>
                 </li>
+                
+                  
+                
+                  
+                
+                  
                 
                   
                 
@@ -213,7 +227,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         
         <span class="article__meta">
           <span class="article__date"> on <a href="/2020/08/01/Sandakphu-A-Prologue/"><time datetime="2020-08-01T00:00:00+05:30">August 1, 2020</time></a></span>
-          <span class="article__author"> by <a href="/about.html">Prahlad</a></span>
+          <span class="article__author"> by <a href="/about.html">Prahlad Narasimhan</a></span>
         </span>
       </div>
     </div>
@@ -243,7 +257,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         
         <span class="article__meta">
           <span class="article__date"> on <a href="/2020/04/03/Sandakphu/"><time datetime="2020-04-03T00:00:00+05:30">April 3, 2020</time></a></span>
-          <span class="article__author"> by <a href="/about.html">Prahlad</a></span>
+          <span class="article__author"> by <a href="/about.html">Prahlad Narasimhan</a></span>
         </span>
       </div>
     </div>
@@ -289,13 +303,33 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     
   </ul>
 </div> -->
-            <div class="copyright wow fadeInUp" data-wow-delay=".2s">2021 &copy; <a href="/" class="copyright__link">Prahlad</a>. Crafted & Designed by <a href="https://artemsheludko.github.io" class="copyright__link">Artem Sheludko</a>.</div>
+            <div class="copyright wow fadeInUp" data-wow-delay=".2s">2022 &copy; <a href="/" class="copyright__link">Prahlad Narasimhan</a>. Crafted & Designed by <a href="https://artemsheludko.github.io" class="copyright__link">Artem Sheludko</a>.</div>
         </footer>
       
       <!-- end footer -->
     </div>
   </div>
 </div>
+<script>
+// collapse
+function myCollapse(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+    id_but = id.concat("-but");
+    var y = document.getElementById(id_but);
+    if (y != null) {
+      if (y.className.indexOf("fa-caret-square-down") != -1) {
+        y.className = y.className.replace(" fa-caret-square-down", " fa-caret-square-up");
+      } else {
+        y.className = y.className.replace(" fa-caret-square-up", " fa-caret-square-down");
+      }
+    }
+}
+</script>
 
   
   <!-- begin javascript files -->

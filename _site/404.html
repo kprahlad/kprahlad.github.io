@@ -11,6 +11,9 @@
 
   <link rel="canonical" href="http://localhost:4000/404.html">
   <link rel="alternate" type="application/rss+xml" title="Prahlad Narasimhan" href="/feed.xml">
+  
+  <!--W3-CSS-->
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
@@ -18,6 +21,7 @@
 
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/eb3c475b26.js" crossorigin="anonymous"></script>
 
   <style>
   
@@ -264,6 +268,26 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </div>
   </div>
 </div>
+<script>
+// collapse
+function myCollapse(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+    id_but = id.concat("-but");
+    var y = document.getElementById(id_but);
+    if (y != null) {
+      if (y.className.indexOf("fa-caret-square-down") != -1) {
+        y.className = y.className.replace(" fa-caret-square-down", " fa-caret-square-up");
+      } else {
+        y.className = y.className.replace(" fa-caret-square-up", " fa-caret-square-down");
+      }
+    }
+}
+</script>
 
   
   <!-- begin javascript files -->
