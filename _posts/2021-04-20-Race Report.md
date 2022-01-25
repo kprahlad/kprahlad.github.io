@@ -7,7 +7,7 @@ excerpt: After a 6-month hiatus due to COVID, I finally started running again in
 tags:   ["Personal","Running"]
 ---
 
-After a 6-month hiatus due to COVID, I finally started running again in September, 2020. It took me 6 months of *very* slow progress (including a 2 week pause while [quarantining in NISER]({{ site.baseurl }}{% post_url 2020-12-11-Returning to NISER %})) to build up to a mileage of around 25 KM a week. I decided to use [this](https://freerunningplans.com/5k-running-plans) 8-week beginner 5 KM plan to cap this running season.  I ended up running the distance in 27:10 on the 17<sup>th</sup> of April - not as good as by PB (26:46) from 18 months back, but much better than I expected. Here's my race report.     
+After a 6-month hiatus due to COVID, I finally started running again in September, 2020. It took me 6 months of *very* slow progress (including a 2 week pause while [quarantining in NISER]({{ site.baseurl }}{% post_url 2020-12-11-Returning to NISER %})) to build up to a mileage of around 25 KM a week. I decided to use [this](https://freerunningplans.com/5k-running-plans){:target="_blank"} 8-week beginner 5 KM plan to cap this running season.  I ended up running the distance in 27:10 on the 17<sup>th</sup> of April - not as good as by PB (26:46) from 18 months back, but much better than I expected. Here's my race report.     
 
 ## Race Information
 

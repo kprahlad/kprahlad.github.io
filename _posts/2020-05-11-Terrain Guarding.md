@@ -2,7 +2,7 @@
 layout: post
 title:  "Terrain Guarding"
 date:   2020-05-11
-image:  
+mathjax: true
 excerpt: The <i>Terrain Guarding</i> problem is a variation of the <i>Art Gallery</i> problem - you are given a polygonal chain and are required to find the minimum number of vertices on it to guard a given set of points on the chain. It turns out that this is a hard computational problem. During my quest to understand <a href= "https://dl.acm.org/doi/10.1145/3186897">this paper</a> by Ashok <i>et al.</i>, I picked up a few more concepts and decided to write a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. This eventually let to my <a href = "https://kprahlad.github.io/2021/02/12/Guarding-Terrains-and-Covering-Chordal-Graphs/">first publication</a>.
 tags:   ["Academics","Reports"]
 ---
@@ -13,6 +13,6 @@ In math-y terms, you are given a set \\(V\\) which consists of \\(n\\)-many poin
 
 It turns out these problems are computational nightmares - they are NP Hard [[King and Krohn, 2009](https://www.researchgate.net/publication/220779363_Terrain_Guarding_is_NP-Hard)]. To make matters worse, it turns out that solving these problems for what seemed to be a easier class of terrains - those which are made with  only horizontal and vertical lines (orthogonal terrains), is still NP  Hard [[Bonnet and Giannopoulos, 2017](https://arxiv.org/abs/1710.00386)]. Knowing this, we ask the next best thing - are these problems FPT with respect to number of guards \\(k\\)? That is, does there exist an algorithm which solves *Continuous Terrain Guarding* and *Discrete Terrain Guarding* in \\(f(k) \cdot n^c\\) time, where \\(f\\) is some computable function and \\(c\\) is some constant independent of \\(n\\) and \\(k\\)? We only know the answer for this question for orthogonal terrains. Both  the versions of the orthogonal terrain guarding problem are FPT with respect to \\(k\\) [[Ashok et al., 2018](https://dl.acm.org/doi/10.1145/3186897)]. 
 
-I've made a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. Two of  the major theorems presented in the report are, to the best of my  knowledge, not present in existing literature. I've done my best to iron out typos and avoid mistakes. If you find any typos, mistakes or just  want to talk about this topic, [email me](mailto:kprahlad.narasimhan@niser.ac.in)!
+I've made a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. Two of  the major theorems presented in the report are, to the best of my  knowledge, not present in existing literature. I've done my best to iron out typos and avoid mistakes. If you find any typos, mistakes or just  want to talk about this topic, [email me](mailto:kprahlad.narasimhan@niser.ac.in){:target="_blank"}!
 
 #### <center><a href = "{{site.baseurl}}/documents/A_FPT_Algorithm_for_the_Orthogonal_Terrain_Guarding_Problem.pdf" download> Report </a></center>

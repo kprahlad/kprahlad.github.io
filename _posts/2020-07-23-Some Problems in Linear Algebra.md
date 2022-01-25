@@ -2,7 +2,7 @@
 layout: post
 title:  Some Problems in Linear Algebra
 date:   2020-07-23
-image:  
+mathjax: true  
 excerpt: I came across a couple of fun problems when I was going through <i>"<a href = "https://link.springer.com/book/10.1007/978-3-319-11080-6">Linear Algebra Done Right</a>"</i> by Axler. I really enjoyed this book and it was great for a "second reading" of the basics of Linear Algebra.
 tags:   ["Academics","Problems"]
 

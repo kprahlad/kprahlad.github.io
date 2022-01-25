@@ -20,7 +20,7 @@ layout: default
 						<span class="post__date"> on <a href="{{post.url | prepend: site.baseurl}}">
 							<time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time></a>
 						</span>
-						<span class="article__author"> by <a href="{{site.baseurl}}/about/">{{ site.author.name }}</a></span>
+						<span class="article__author"> by <a href="{{site.url}}">{{ site.author.name }}</a></span>
 					</span>
 				</div>
 			</div>
@@ -113,4 +113,3 @@ layout: default
 		</div>
 	</div>
 </div>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

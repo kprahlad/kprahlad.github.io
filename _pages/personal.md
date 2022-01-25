@@ -19,11 +19,11 @@ I hope to maintain a collection of my race reports and training blocks here:
 <ul>
     {% for post in site.tags.Running %}
         <li><a href = "{{post.url}}">{{post.title}}</a>
-			<a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
+            <a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
             <div id="{{post.title}}" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
                 {{post.excerpt}}
             </div>
-		</li>
+        </li>
     {% endfor %}
 </ul>
 
@@ -34,11 +34,11 @@ I want to document my treks and hikes here:
 <ul>
     {% for post in site.tags.Trekking %}
         <li><a href = "{{post.url}}">{{post.title}}</a>
-			<a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
+            <a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
             <div id="{{post.title}}" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
                 {{post.excerpt}}
             </div>
-		</li>
+        </li>
     {% endfor %}
 </ul>
 
@@ -49,10 +49,10 @@ I doubt I will write about much else, but if I do, it shall go here:
 <ul>
     {% for post in site.tags.Misc %}
         <li><a href = "{{post.url}}">{{post.title}}</a>
-			<a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
+            <a onclick="myCollapse('{{post.title}}')" style="cursor:pointer"><i aria-hidden="true" id="{{post.title}}-but" class="fas fa-caret-square-down"></i></a><br>
             <div id="{{post.title}}" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
                 {{post.excerpt}}
             </div>
-		</li>
+        </li>
     {% endfor %}
 </ul>

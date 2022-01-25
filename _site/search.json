@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "The Four-Colour Theorem",
+      "category" : "",
+      "tags"     : "Academics and Presentations",
+      "url"      : "/2022/01/23/The-Four-Color-Theorem/",
+      "date"     : "2022-01-23 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Geometric Hitting Set Problems",
+      "category" : "",
+      "tags"     : "Academics and Reports",
+      "url"      : "/2021/11/30/Geometric-Hitting-Set-Problems/",
+      "date"     : "2021-11-30 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "One-Sided Terrain Guarding and Chordal Graphs",
+      "category" : "",
+      "tags"     : "Academics and Publications",
+      "url"      : "/2021/08/01/One-Sided-Terrain-Guarding-and-Chordal-Graphs/",
+      "date"     : "2021-08-01 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Race Report - Return to Running",
       "category" : "",
       "tags"     : "Personal and Running",
@@ -9,10 +33,10 @@
     } ,
   
     {
-      "title"    : "Guarding Terrains and Covering Chordal Graphs",
+      "title"    : "One-Sided Discrete Terrain Guarding and Chordal Graphs",
       "category" : "",
       "tags"     : "Academics and Publications",
-      "url"      : "/2021/02/12/Guarding-Terrains-and-Covering-Chordal-Graphs/",
+      "url"      : "/2021/02/12/One-Sided-Discrete-Terrain-Guarding-and-Chordal-Graphs/",
       "date"     : "2021-02-12 00:00:00 +0530"
     } ,
   

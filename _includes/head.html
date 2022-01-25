@@ -19,11 +19,32 @@
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet">
   <script src="https://kit.fontawesome.com/eb3c475b26.js" crossorigin="anonymous"></script>
-
+  
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
+  <!--MathJax-->
+  {% if page.mathjax %}
+	<script type="text/javascript">
+		window.MathJax = {
+			tex: {
+				packages: ['base', 'ams']
+			},
+			loader: {
+				load: ['ui/menu', '[tex]/ams']
+			}
+		};
+		MathJax= {
+			chtml: {
+				scale: 0.85
+			}
+		};
+	</script>
+	<script type="text/javascript" id="MathJax-script" async
+		src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+	</script>
+  {% endif %}
 </head>
