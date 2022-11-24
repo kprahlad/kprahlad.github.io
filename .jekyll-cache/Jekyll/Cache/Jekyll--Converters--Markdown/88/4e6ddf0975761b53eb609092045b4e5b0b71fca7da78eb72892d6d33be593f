@@ -1,0 +1,13 @@
+I"	
+<p>A <i>Local Search</i> algorithm, for a maximization problem, works as follows: start with a small set which satisfies the required property; check if there is a “small” subset of it can be swapped with a “slightly larger” set so that the remaining set still satisfies this property; swap if possible and repeat the procedure or return the set that is obtained. This simple algorithmic framework was used to produce a polynomial-time approximation scheme (PTAS) for problems that satisfy a certain condition (called the <em>locality condition</em>) by <a href="https://link.springer.com/article/10.1007/s00454-010-9285-9" target="_blank">Mustafa and Ray</a> in 2010. Thereafter, this PTAS has been modified to solve several geometric hitting set problems.</p>
+
+<p>My introduction to this paper was through one such use case - this framework was used to produce a PTAS for the <em>Terrain Guarding</em> Problem (see <a href="/2020/05/11/Terrain-Guarding/">this post</a> and <a href="/2021/02/12/One-Sided-Discrete-Terrain-Guarding-and-Chordal-Graphs/">this post</a> for more information on the problem) in <a href="https://jocg.org/index.php/jocg/article/view/2931" target="_blank">2014</a>.</p>
+
+<p>In 2018, <a href="https://drops.dagstuhl.de/opus/volltexte/2018/8761/" target="_blank">Jartoux and Mustafa</a> proved that local search is optimal (up to a sublinear factor) for those problems that give rise to arbitrarily large “grid-like” <em>locality graphs</em>. They also proved that certain well-known problems such as <em>Minimum Hitting Set</em> and <em>Maximum Independent Set</em> derived from disks on a plane can give rise to these locality graphs. However, it is an open question if terrains can give rise to such graphs and thus whether the PTAS that we have for the problem is optimal.</p>
+
+<p>For my 8<sup>th</sup> and 9<sup>th</sup> semester projects, I worked on this algorithm when applied to the geometric setting. I wrote a report that discusses the construction of a PTAS using this paradigm and its optimality in certain conditions. I made some preliminary progress answering the open question regarding terrains, but since it is an work in progress, I have not included it in this report.</p>
+
+<p>I’ve done my best to iron out typos and avoid mistakes. If you find any typos, mistakes or just  want to talk about this topic, <a href="mailto:kprahlad.narasimhan@niser.ac.in" target="_blank">email me</a>!</p>
+
+<h4 id="-report-"><center><a href="/documents/Geometric Hitting Set Problems.pdf" download=""> Report </a></center></h4>
+:ET

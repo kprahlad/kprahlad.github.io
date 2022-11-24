@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Dominator Coloring Parameterized by Cluster Vertex Deletion Number",
+      "category" : "",
+      "tags"     : "Academics and Publications",
+      "url"      : "/2022/11/20/Dominator-Coloring-Parameterized-by-Cluster-Vertex-Deletion-Number/",
+      "date"     : "2022-11-20 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "The Four-Colour Theorem",
       "category" : "",
       "tags"     : "Academics and Presentations",
       "url"      : "/2022/01/23/The-Four-Color-Theorem/",
-      "date"     : "2022-01-23 00:00:00 +0530"
+      "date"     : "2022-01-23 00:00:00 -0500"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "category" : "",
       "tags"     : "Academics and Reports",
       "url"      : "/2021/11/30/Geometric-Hitting-Set-Problems/",
-      "date"     : "2021-11-30 00:00:00 +0530"
+      "date"     : "2021-11-30 00:00:00 -0500"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "category" : "",
       "tags"     : "Academics and Publications",
       "url"      : "/2021/08/01/One-Sided-Terrain-Guarding-and-Chordal-Graphs/",
-      "date"     : "2021-08-01 00:00:00 +0530"
+      "date"     : "2021-08-01 00:00:00 -0400"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "category" : "",
       "tags"     : "Personal and Running",
       "url"      : "/2021/04/20/Race-Report/",
-      "date"     : "2021-04-20 00:00:00 +0530"
+      "date"     : "2021-04-20 00:00:00 -0400"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "category" : "",
       "tags"     : "Academics and Publications",
       "url"      : "/2021/02/12/One-Sided-Discrete-Terrain-Guarding-and-Chordal-Graphs/",
-      "date"     : "2021-02-12 00:00:00 +0530"
+      "date"     : "2021-02-12 00:00:00 -0500"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "category" : "",
       "tags"     : "Academics and Reports",
       "url"      : "/2021/01/30/Linear-and-Semidefinite-Programming/",
-      "date"     : "2021-01-30 00:00:00 +0530"
+      "date"     : "2021-01-30 00:00:00 -0500"
     } ,
   
     {
@@ -53,7 +61,7 @@
       "category" : "",
       "tags"     : "Academics and Reports",
       "url"      : "/2021/01/26/Annihilators-of-Banach-Spaces/",
-      "date"     : "2021-01-26 00:00:00 +0530"
+      "date"     : "2021-01-26 00:00:00 -0500"
     } ,
   
     {
@@ -61,7 +69,7 @@
       "category" : "",
       "tags"     : "Personal and Misc",
       "url"      : "/2020/12/11/Returning-to-NISER/",
-      "date"     : "2020-12-11 00:00:00 +0530"
+      "date"     : "2020-12-11 00:00:00 -0500"
     } ,
   
     {
@@ -69,7 +77,7 @@
       "category" : "",
       "tags"     : "Academics and Problems",
       "url"      : "/2020/09/05/Colouring-a-Sequence-of-Boxes/",
-      "date"     : "2020-09-05 00:00:00 +0530"
+      "date"     : "2020-09-05 00:00:00 -0400"
     } ,
   
     {
@@ -77,7 +85,7 @@
       "category" : "",
       "tags"     : "Trekking and Personal",
       "url"      : "/2020/08/01/Sandakphu-A-Prologue/",
-      "date"     : "2020-08-01 00:00:00 +0530"
+      "date"     : "2020-08-01 00:00:00 -0400"
     } ,
   
     {
@@ -85,7 +93,7 @@
       "category" : "",
       "tags"     : "Academics and Problems",
       "url"      : "/2020/07/23/Some-Problems-in-Linear-Algebra/",
-      "date"     : "2020-07-23 00:00:00 +0530"
+      "date"     : "2020-07-23 00:00:00 -0400"
     } ,
   
     {
@@ -93,7 +101,7 @@
       "category" : "",
       "tags"     : "Academics and Reports",
       "url"      : "/2020/05/11/Terrain-Guarding/",
-      "date"     : "2020-05-11 00:00:00 +0530"
+      "date"     : "2020-05-11 00:00:00 -0400"
     } ,
   
     {
@@ -101,7 +109,7 @@
       "category" : "",
       "tags"     : "Trekking and Personal",
       "url"      : "/2020/04/03/Sandakphu/",
-      "date"     : "2020-04-03 00:00:00 +0530"
+      "date"     : "2020-04-03 00:00:00 -0400"
     } ,
   
     {
@@ -109,7 +117,7 @@
       "category" : "",
       "tags"     : "Academics and Reports",
       "url"      : "/2019/04/20/Kleene-Algebra/",
-      "date"     : "2019-04-20 00:00:00 +0530"
+      "date"     : "2019-04-20 00:00:00 -0400"
     } 
   
 ]

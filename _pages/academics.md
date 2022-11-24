@@ -8,9 +8,9 @@ permalink: academics.html
 
 ## An Academic History
 
-I'm currently enrolled in a 5-year Int. MSc.  course at NISER, Bhubaneswar and am majoring in mathematics with a minor in computer science. My study here is supported by the Department of  Science and Technology through the INSPIRE SHE fellowship. My research  interests lie in the realm of theoretical computer science -  specifically, I'm working on problems in computational geometry, graph  theory, and parameterized complexity. I've previously worked on automata theory, cryptographic applications of cellular automata, and optimization. I presented my  first publication titled *"One-Sided Discrete Terrain Guarding and Chordal Graphs"* at CALDAM 2021. 
+I'm currently enrolled as a PhD student in the Applied Mathematics amd Statistics Department at SUNY, Stony Brook. In 2022, I completed a 5-year Integrated MSc. course at NISER, Bhubaneswar in mathematics with a minor in computer science. I was graciously supported by the Department of  Science and Technology through the INSPIRE SHE fellowship throughout my studies at NISER. My research  interests lie in the realm of theoretical computer science -  specifically, I'm working on problems in computational geometry, graph  theory, and parameterized complexity. I've previously worked on automata theory, cryptographic applications of cellular automata, and optimization.
 
-Here is a <a href = "{{site.baseurl}}/documents/CV_Prahlad.pdf" download>PDF of my CV</a> (updated: January 14, 2022).
+Here is a <a href = "{{site.baseurl}}/documents/CV_Prahlad.pdf" download>PDF of my CV</a> (updated: November 20, 2022).
 
 I've listed my publications, talks, academic reports, and some random problems below. Click on the title to head to the blog post on the topic and the <i class="fas fa-caret-square-down"></i> icon to read its excerpt.
 

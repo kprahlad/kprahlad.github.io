@@ -19,6 +19,6 @@ My paper ([DOI](https://doi.org/10.1007/978-3-030-67899-9_10){:target="_blank"})
 
 This is my first academic publication! This paper is a result of my COVID-induced-6-month-long break. I presented this paper at [CALDAM-2021](https://www.iitrpr.ac.in/caldam2021/index.html){:target="_blank"}. Unfortunately, this was done from my hostel room in NISER (during end-semester exam week, *sigh*) and not in the foothills of the Shivaliks at IIT-Ropar due to the pandemic. Since this was a solo paper, it was extremely demanding - especially since my manuscript came back for corrections during the busiest part of my semester. I made a lot of mistakes and thus learnt a truckload. A huge thanks to my mentor [Dr. Aritra Banik](www.niser.ac.in/~aritra/){:target="_blank"} for initial discussions and support during the final stages! 
 
-Feel free to [email me](mailto:kprahlad.narasimhan@niser.ac.in){:target="_blank"} if you want to discuss this topic! The pre-print of this paper can be downloaded as a PDF from here: 
+Feel free to [email me](mailto: prahladnarasim.kasthurirangan@stonybrook.edu){:target="_blank"} if you want to discuss this topic! The pre-print of this paper can be downloaded as a PDF from here: 
 
 #### <center><a href = "{{site.baseurl}}/documents/One-Sided Discrete Terrain Guarding and Chordal Graphs.pdf" download>Pre-Print</a></center>

@@ -1,0 +1,119 @@
+I"92<p><img src="/images/DSC_0342.jpg" alt="" /><em>Tiger paw prints at Ranthambore. Spring, 2018.</em></p>
+
+<h2 id="an-academic-history">An Academic History</h2>
+
+<p>I’m currently enrolled as a PhD student in the Applied Mathematics amd Statistics Department at SUNY, Stony Brook. In 2022, I completed a 5-year Integrated MSc. course at NISER, Bhubaneswar in mathematics with a minor in computer science. I was graciously supported by the Department of  Science and Technology through the INSPIRE SHE fellowship throughout my studies at NISER. My research  interests lie in the realm of theoretical computer science -  specifically, I’m working on problems in computational geometry, graph  theory, and parameterized complexity. I’ve previously worked on automata theory, cryptographic applications of cellular automata, and optimization.</p>
+
+<p>Here is a <a href="/documents/CV_Prahlad.pdf" download="">PDF of my CV</a> (updated: November 20, 2022).</p>
+
+<p>I’ve listed my publications, talks, academic reports, and some random problems below. Click on the title to head to the blog post on the topic and the <i class="fas fa-caret-square-down"></i> icon to read its excerpt.</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>Here is a list of my publications:</p>
+
+<ul>
+    
+        <li><a href="/2022/11/20/Dominator-Coloring-Parameterized-by-Cluster-Vertex-Deletion-Number/">Dominator Coloring Parameterized by Cluster Vertex Deletion Number</a> 
+            <a onclick="myCollapse('Dominator Coloring Parameterized by Cluster Vertex Deletion Number')" style="cursor:pointer"><i aria-hidden="true" id="Dominator Coloring Parameterized by Cluster Vertex Deletion Number-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Dominator Coloring Parameterized by Cluster Vertex Deletion Number" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                Given a simple graph <i>G</i> and a natural number <i>l</i>, <i>Dominator Coloring</i> asks if it possible to properly color <i>G</i> with at most <i>l</i> colors such that for every vertex <i>v</i> in the graph, there exists a color class <i>c</i> where every vertex colored <i>c</i> is in the neighborhood of <i>v</i>. This problem, first described in 2006 and studied in several papers since then, hosts several interesting open problems. In this combined work (with Prof Aritra Banik and Prof Venkatesh Raman), we initiate the study of the problem through the lens of structural parameterization. We prove that Dominator Coloring, parameterized by the input graph's Cluster Vertex Deletion number, is FPT. We also design faster, simpler, and randomized parameterized algorithms when the parameter is a special CVD set.
+            </div>
+        </li>
+    
+        <li><a href="/2021/08/01/One-Sided-Terrain-Guarding-and-Chordal-Graphs/">One-Sided Terrain Guarding and Chordal Graphs</a> 
+            <a onclick="myCollapse('One-Sided Terrain Guarding and Chordal Graphs')" style="cursor:pointer"><i aria-hidden="true" id="One-Sided Terrain Guarding and Chordal Graphs-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="One-Sided Terrain Guarding and Chordal Graphs" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                This is the journal version of my previous work (covered in this <a href="https://kprahlad.github.io/2021/02/12/One-Sided-Discrete-Terrain-Guarding-and-Chordal-Graphs/">blog post</a>) on the <i>Terrain Guarding</i> Problem. This extends results of the conference version of the paper to the <i>Continuous Terrain Guarding</i> Problem and to a version of the <i>Dominating Set</i> Problem in terrain-like graphs. Moreover, it significantly shortens the proof of one of the theorems and corrects some small errors present in the previous version.
+            </div>
+        </li>
+    
+        <li><a href="/2021/02/12/One-Sided-Discrete-Terrain-Guarding-and-Chordal-Graphs/">One-Sided Discrete Terrain Guarding and Chordal Graphs</a> 
+            <a onclick="myCollapse('One-Sided Discrete Terrain Guarding and Chordal Graphs')" style="cursor:pointer"><i aria-hidden="true" id="One-Sided Discrete Terrain Guarding and Chordal Graphs-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="One-Sided Discrete Terrain Guarding and Chordal Graphs" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                The <i>Discrete Terrain Guarding</i> problem (discussed in one of my <a href="https://kprahlad.github.io/2020/05/11/Terrain-Guarding/">previous posts</a>) has been shown to be NP-Hard, but it remains to be seen if it is FPT with respect to the size of the solution size. In this direction, <a href="https://dl.acm.org/doi/10.1145/3186897">Ashok <i>et al.</i></a> proved in 2015 that <i>Orthogonal Discrete Terrain Guarding</i> is FPT. They used a lemma proved by <a href="https://doi.org/10.1016/j.comgeo.2007.02.002">Katz and Roisman</a> which established a relationship between this problem and the <i>Clique Cover</i> problem in chordal graphs. My (first!) paper extends this lemma and takes a step forward in understanding the fixed-parameterized tractability of <i>Discrete Terrain Guarding</i>.
+            </div>
+        </li>
+    
+</ul>
+
+<h2 id="talks">Talks</h2>
+
+<p>Here are slides and recordings (if available) of my talks:</p>
+
+<ul>
+    
+        <li><a href="/2022/01/23/The-Four-Color-Theorem/">The Four-Colour Theorem</a>
+            <a onclick="myCollapse('The Four-Colour Theorem')" style="cursor:pointer"><i aria-hidden="true" id="The Four-Colour Theorem-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="The Four-Colour Theorem" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                The <i>Four-Colour</i> Theorem, first conjectured in 1852, states that any planar graph can be properly coloured with four colours. The theorem was eventually proved 120 years later by Kenneth and Appel. This proof was considered to be a watershed moment in Mathematics. Why? Because it used computers.
+            </div>
+        </li>
+    
+</ul>
+
+<h2 id="reports">Reports</h2>
+
+<p>Here is a list of reports that I have submitted as part of my coursework or at the end of an internship:</p>
+
+<ul>
+    
+        <li><a href="/2021/11/30/Geometric-Hitting-Set-Problems/">Geometric Hitting Set Problems</a>
+            <a onclick="myCollapse('Geometric Hitting Set Problems')" style="cursor:pointer"><i aria-hidden="true" id="Geometric Hitting Set Problems-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Geometric Hitting Set Problems" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                A <i>Local Search</i> algorithm, for a maximization problem, works as follows - start with a small set which satisfies the required property; check if there is a "small" subset of it can be swapped with a "slightly larger" set so that the remaining set still satisfies this property; swap if possible and repeat the procedure or return the set that is obtained. For my 8<sup>th</sup> and 9<sup>th</sup> semester projects, I worked on this algorithm when applied to the geometric setting. I wrote a report that discusses the construction of a PTAS using this paradigm and its optimality in certain conditions.
+            </div>
+        </li>
+    
+        <li><a href="/2021/01/30/Linear-and-Semidefinite-Programming/">Linear and Semidefinite Programming</a>
+            <a onclick="myCollapse('Linear and Semidefinite Programming')" style="cursor:pointer"><i aria-hidden="true" id="Linear and Semidefinite Programming-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Linear and Semidefinite Programming" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                Optimization has a very simple premise - you want to maximize or minimize something with respect to a bunch of constraints. In <i>Linear Programming</i>, we further restrict our study to the case where the constraints are also linear and the condition imposed on each of these functions is that they must be  at most a fixed value. In <i>Semidefinite Programming</i>, we impose another restriction - the matrix described by the variables must be positive (that is, it must be both positive semidefinite and self-adjoint or, equivalently, it must be a matrix whose eigenvalues are positive reals). For my 7<sup>th</sup> semester math project, I wrote a report that discusses these two optimiization constructs. The report assumes literacy in basic algorithms, linear algebra and (a tiny bit of) probability.
+            </div>
+        </li>
+    
+        <li><a href="/2021/01/26/Annihilators-of-Banach-Spaces/">Annihilators of Banach Spaces</a>
+            <a onclick="myCollapse('Annihilators of Banach Spaces')" style="cursor:pointer"><i aria-hidden="true" id="Annihilators of Banach Spaces-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Annihilators of Banach Spaces" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                As part of my course on Functional Analysis in my 7<sup>th</sup> semester, I was required to present a topic that was an extension of the course. I chose to read up on annihilators of Banach spaces and characterize the conditions required for the sum of two closed subspaces of a Banach space to be closed. You know, just because.
+            </div>
+        </li>
+    
+        <li><a href="/2020/05/11/Terrain-Guarding/">Terrain Guarding</a>
+            <a onclick="myCollapse('Terrain Guarding')" style="cursor:pointer"><i aria-hidden="true" id="Terrain Guarding-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Terrain Guarding" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                The <i>Terrain Guarding</i> problem is a variation of the <i>Art Gallery</i> problem - you are given a polygonal chain and are required to find the minimum number of vertices on it to guard a given set of points on the chain. It turns out that this is a hard computational problem. During my quest to understand <a href="https://dl.acm.org/doi/10.1145/3186897">this paper</a> by Ashok <i>et al.</i>, I picked up a few more concepts and decided to write a report which seeks to let anyone who has done a basic course in  algorithms understand (almost) current research in this topic. This eventually let to my <a href="https://kprahlad.github.io/2021/02/12/Guarding-Terrains-and-Covering-Chordal-Graphs/">first publication</a>.
+            </div>
+        </li>
+    
+        <li><a href="/2019/04/20/Kleene-Algebra/">Kleene Algebra</a>
+            <a onclick="myCollapse('Kleene Algebra')" style="cursor:pointer"><i aria-hidden="true" id="Kleene Algebra-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Kleene Algebra" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                While following <i>"<a href="https://doi.org/10.1007/978-1-4612-1844-9_10">Automata and Computability</a>"</i> by D.C Kozen during my first summer internship at CMI, I came across a supplementary lecture on Kleene Algebras. When I came back to it a semester later, I discovered that the number of axioms required to define this algebra can be reduced by one.
+            </div>
+        </li>
+    
+</ul>
+
+<h2 id="random-problems">Random Problems</h2>
+
+<p>Here is a list of what I consider to be small,  interesting problems that I have managed to solve:</p>
+
+<ul>
+    
+        <li><a href="/2020/09/05/Colouring-a-Sequence-of-Boxes/">Colouring a Sequence of Boxes</a>
+            <a onclick="myCollapse('Colouring a Sequence of Boxes')" style="cursor:pointer"><i aria-hidden="true" id="Colouring a Sequence of Boxes-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Colouring a Sequence of Boxes" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                One of my friends was applying to Google for a job and got this problem in one of the final written rounds. This was a fun little problem that helped me procrastinate...
+            </div>
+        </li>
+    
+        <li><a href="/2020/07/23/Some-Problems-in-Linear-Algebra/">Some Problems in Linear Algebra</a>
+            <a onclick="myCollapse('Some Problems in Linear Algebra')" style="cursor:pointer"><i aria-hidden="true" id="Some Problems in Linear Algebra-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Some Problems in Linear Algebra" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                I came across a couple of fun problems when I was going through <i>"<a href="https://link.springer.com/book/10.1007/978-3-319-11080-6">Linear Algebra Done Right</a>"</i> by Axler. I really enjoyed this book and it was great for a "second reading" of the basics of Linear Algebra.
+            </div>
+        </li>
+    
+</ul>
+:ET
