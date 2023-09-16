@@ -1,4 +1,4 @@
-I"ƒ<p><img src="/images/DSC_0256.jpg" alt="" /><em>Sandakphu, as seen from Kalipokhri. March, 2020.</em></p>
+I"<p><img src="/images/DSC_0256.jpg" alt="" /><em>Sandakphu, as seen from Kalipokhri. March, 2020.</em></p>
 
 <p>Growing up, I played a bunch of sports: cricket, football, and volleyball to some success; table tennis, basketball, and chess for the fun of it. I caught the running bug in late 2019 (after my <a href="/2020/08/01/Sandakphu-A-Prologue/">disastrous trekking experience</a>) and have been trying to keep it going through the pandemic. I am not very good at it, but boy do I enjoy a run. My short-term running goal is to get back to half-marathon shape but I do hope to run a marathon in the future!</p>
 
@@ -26,6 +26,13 @@
 <p>I want to document my treks and hikes here:</p>
 
 <ul>
+    
+        <li><a href="/2022/11/26/Hikes-in-Finland/">Hikes in Finland</a>
+            <a onclick="myCollapse('Hikes in Finland')" style="cursor:pointer"><i aria-hidden="true" id="Hikes in Finland-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Hikes in Finland" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                During my time as a Research Assistant at Aalto University in the summer of 2022, I promised myself that I would go for a hike every chance I got. Here is a compilation of hikes around the Helsinki region that I hiked. Pretty pictures and GPX files included!
+            </div>
+        </li>
     
         <li><a href="/2020/08/01/Sandakphu-A-Prologue/">Sandakphu: A Prologue</a>
             <a onclick="myCollapse('Sandakphu: A Prologue')" style="cursor:pointer"><i aria-hidden="true" id="Sandakphu: A Prologue-but" class="fas fa-caret-square-down"></i></a><br />

@@ -7,6 +7,8 @@ excerpt: Given a simple graph <i>G</i> and a natural number <i>l</i>, <i>Dominat
 tags:   ["Academics","Publications"]
 ---
 
+*Update (September 16, 2023)*: An extended version of this paper got accepted to <a href = "https://link.springer.com/chapter/10.1007/978-3-031-38906-1_8">WADS 2023</a>! Here is a PDF version of my <a href = "{{site.baseurl}}/documents/WADS2023_Presentation.pdf" download>slides</a>. 
+
 This work started out as my MSc Thesis back in NISER! If you prefer a meme-filled introduction to the problem, check out my [twitter thread](https://twitter.com/pranarkas/status/1587841594769772546) :)
 
 Two of the most prolific problems in graph theory are *Dominating Set* and *Graph Coloring*. Consider a simple graph $$G$$ and a natural number $$\ell$$. We say that vertex $$v$$ *dominates* a vertex $$u$$ if $$v = u$$ or $$u$$ is a neighbor of $$v$$. In the Dominating Set problem, we are required to report if there exists a set of vertices $$S$$ of size at most $$\ell$$ such that for every vertex $$v \in V(G)$$, there exists a $$s \in S$$ such that $$s$$ dominates $$v$$. In *Graph Coloring*, we must decide if it is possible to color the vertices of $$G$$ with at most $$\ell$$ colors such that no two neighboring vertices get the same color. Such a coloring of the vertices is referred to as a *proper coloring*.
