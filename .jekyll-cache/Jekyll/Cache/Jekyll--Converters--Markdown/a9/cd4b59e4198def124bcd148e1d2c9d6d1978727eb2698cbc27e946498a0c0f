@@ -1,0 +1,22 @@
+I"•<p>Consider the following polygon \(P\):</p>
+
+<p><img src="/images/ConvexCover/polygon.png" alt="" style="display:block; margin-left:auto; margin-right:auto" /><em>A polygon.</em></p>
+
+<p>The <em>Convex Cover</em> problem seeks to cover \(P\) with the fewest convex polygons that lie within \(P\). Here, the minimum number of convex polygons required is 3:</p>
+
+<p><img src="/images/ConvexCover/convex_cover.png" alt="" style="display:block; margin-left:auto; margin-right:auto" /><em>An optimal convex cover of our polygon.</em></p>
+
+<p>Convex Cover is a fundamental problem in Computational Geometry; it was first studied in the late 60s <a href="https://www.sciencedirect.com/science/article/abs/pii/003132036890006X">[1]</a> and in 2003 an \(\mathcal{O}(\log{n})\)-approximation (and and APX-Hardness reduction) was discussed in <a href="https://epubs.siam.org/doi/10.1137/S0097539702405139">[2]</a> (\(n\) is the number of vertices of \(P\)). This algorithm is extremely slow (runtime in the order of \(n^{29}\)). Recently, in <a href="http://ieee-focs.org/FOCS-2021-Papers/pdfs/FOCS2021-5stbVHiOp5jRHWlSl41FkR/205500a375/205500a375.pdf">[3]</a>, Abrahamsen showed that Convex Cover is \(\exists\mathbb{R}\)-hard.</p>
+
+<p>In this paper, we provide the first constant-factor approximation for Convex Cover. The approximation factor is 6: that is, given any polygon \(P\), our algorithm will return a convex cover of \(P\) whose cardinality is at most six times that of the optimal cover. Moreover, our algorithm has a much more palatable runtime of (nearly) quadratic time.</p>
+
+<p>En route, we also provide a constant-factor approximation algorithm with the same runtime for the <em>Hidden Set</em> problem - here, we want to maximize the number of points that we can place inside \(P\) which do not see each; see the example below:</p>
+
+<p><img src="/images/ConvexCover/hidden_set.png" alt="" style="display:block; margin-left:auto; margin-right:auto" /><em>An optimal hidden set of our polygon.</em></p>
+
+<p>Our algorithm returns a hidden set whose size is at least an eighth of the optimal hidden set size. This is the first approximation algorithm for Hidden Set.</p>
+
+<p>My coauthors for this work were Reilly Browne, <a href="https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/mitchell">Joe Mitchell</a>, and <a href="https://itn-web.it.liu.se/~valpo40/">Valentin Polischuk</a>. This was published at FOCS 2023 (<a href="https://ieeexplore.ieee.org/document/10353176">DOI</a>). A longer version of the talk that Reilly presented at FOCS is available on his <a href="https://www.youtube.com/watch?v=WOQ4_-7XsEw">YouTube channel</a>. Feel free to <a href="mailto: prahladnarasim.kasthurirangan@stonybrook.edu" target="_blank">email me</a> if you want to discuss this topic! The pre-print of this paper can be downloaded as a PDF from below:</p>
+
+<h4 id="pre-print"><center><a href="/documents/cchs.pdf" download="">Pre-Print</a></center></h4>
+:ET

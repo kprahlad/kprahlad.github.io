@@ -1,4 +1,4 @@
-I"92<p><img src="/images/DSC_0342.jpg" alt="" /><em>Tiger paw prints at Ranthambore. Spring, 2018.</em></p>
+I"À7<p><img src="/images/DSC_0342.jpg" alt="" /><em>Tiger paw prints at Ranthambore. Spring, 2018.</em></p>
 
 <h2 id="an-academic-history">An Academic History</h2>
 
@@ -13,6 +13,13 @@
 <p>Here is a list of my publications:</p>
 
 <ul>
+    
+        <li><a href="/2024/03/14/Convex-Cover/">Constant-Factor Approximation Algorithms for Convex Cover and Hidden Set in a Simple Polygon</a> 
+            <a onclick="myCollapse('Constant-Factor Approximation Algorithms for Convex Cover and Hidden Set in a Simple Polygon')" style="cursor:pointer"><i aria-hidden="true" id="Constant-Factor Approximation Algorithms for Convex Cover and Hidden Set in a Simple Polygon-but" class="fas fa-caret-square-down"></i></a><br />
+            <div id="Constant-Factor Approximation Algorithms for Convex Cover and Hidden Set in a Simple Polygon" class="w3-container w3-hide w3-margin-bottom w3-leftbar">
+                Consider a simple polygon <i>P</i>. What is the minimum number of convex subsets of <i>P</i> are required to completely cover <i>P</i>? This fundamental problem (called <i>Convex Cover</i>) in computational geometry has proven to be frustratingly hard to solve exactly and/or to approximate for over fifty years. In this work, we provide the first constant-factor approximation for Convex Cover. This algorithm runs in (nearly) quadratic time. En route, we also provide a constant-factor approximation algorithm for the <i>Hidden Set</i> problem, where we need to find the maximum number of points inside <i>P</i> which do not see each other. This is the first approximation algorithm for Hidden Set in literature.
+            </div>
+        </li>
     
         <li><a href="/2022/11/20/Dominator-Coloring-Parameterized-by-Cluster-Vertex-Deletion-Number/">Dominator Coloring Parameterized by Cluster Vertex Deletion Number</a> 
             <a onclick="myCollapse('Dominator Coloring Parameterized by Cluster Vertex Deletion Number')" style="cursor:pointer"><i aria-hidden="true" id="Dominator Coloring Parameterized by Cluster Vertex Deletion Number-but" class="fas fa-caret-square-down"></i></a><br />
